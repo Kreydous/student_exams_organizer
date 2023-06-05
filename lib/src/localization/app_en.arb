@@ -1,0 +1,6 @@
+{
+  "appTitle": "student_exams_organizer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
